@@ -1,0 +1,24 @@
+{
+  "name": "areanet/autocustomergroup",
+  "version": "1.0.0",
+  "description": "Automatischer Kundengruppenwechsel",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "AreanetAutoCustomerGroup\\": "src/"
+    }
+  },
+  "extra": {
+    "plugin-icon": "src/Resources/plugin.png",
+    "shopware-plugin-class": "AreanetAutoCustomerGroup\\AreanetAutoCustomerGroup",
+    "label": {
+      "de-DE": "Automatischer Kundengruppenwechsel",
+      "en-GB": "Automatic customer group change"
+    },
+    "manufacturerLink": {
+      "de-DE": "www.area-net.de",
+      "en-GB": "www.area-net.de"
+    }
+  }
+}

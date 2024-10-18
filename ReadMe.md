@@ -1,0 +1,1 @@
+Bei einem Registrierungsformular für Kundengruppen wird die Kundengruppe automatisch freigeschaltet, ohne dass der Admin im Backend diesen Akzeptieren / ablehnen muss.
