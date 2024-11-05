@@ -1,0 +1,16 @@
+{% sw_extends '@Storefront/storefront/page/account/customer-group-register/index.html.twig' %}
+
+{% block page_account_customer_group_register_inner %}
+    {% if page.group.customFields and page.group.customFields['boxed_form_areanetautocustomergroup'] %}
+    <div class="row justify-content-around">
+        <div class="col-lg-8">
+    {% else %}
+    <div class="row">
+        <div class="col-12">
+    {% endif %}
+            {% block page_account_customer_group_register_inner_container %}
+               {{ parent() }}
+            {% endblock %}
+        </div>
+    </div>
+{% endblock %}
