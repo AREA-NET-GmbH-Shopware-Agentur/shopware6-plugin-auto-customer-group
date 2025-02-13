@@ -1,7 +1,7 @@
 {
   "name": "areanet/autocustomergroup",
-  "version": "1.0.1",
-  "description": "Automatischer Kundengruppenwechsel",
+  "version": "1.1.0",
+  "description": "Automatische Kundengruppen-Freischaltung",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {

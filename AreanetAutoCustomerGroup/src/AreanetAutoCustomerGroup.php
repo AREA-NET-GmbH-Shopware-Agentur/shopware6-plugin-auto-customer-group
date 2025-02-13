@@ -62,6 +62,19 @@ class AreanetAutoCustomerGroup extends Plugin
                             "componentName" => "sw-field",
                             "customFieldType" => "checkbox"
                         ]
+                    ],
+                    [
+                        'id' => md5('auto_areanetautocustomergroup'),
+                        'name' => 'auto_areanetautocustomergroup',
+                        'type' => CustomFieldTypes::BOOL,
+                        'config' => [
+                            'label' => [
+                                'en-GB' => 'Activate automatically',
+                                'de-DE' => 'Automatisch freischalten'
+                            ],
+                            "componentName" => "sw-field",
+                            "customFieldType" => "checkbox"
+                        ]
                     ]
                 ],
                 'relations' => [

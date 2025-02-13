@@ -7,6 +7,7 @@
     <services>
         <service id="AreanetAutoCustomerGroup\Subscriber\CustomerGroupSubscriber">
             <argument type="service" id="customer.repository"/>
+            <argument type="service" id="customer_group.repository"/>
             <tag name="kernel.event_subscriber"/>
         </service>
     </services>
