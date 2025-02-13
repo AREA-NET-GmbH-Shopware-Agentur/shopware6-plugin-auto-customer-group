@@ -2,8 +2,8 @@
 
 ## Unterstützte Shopware Versionen und Changelog
 
-Stand 16.10.2024:
-- **6.6.0.0 - 6.6.7.0**
+Stand 12.02.2025:
+- **6.6.0.0 - 6.6.9.0**
 - [CHANGELOG](AreanetMinimumOrderValue/CHANGELOG.md)
 - [Download](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-minimum-order-value/releases/)
 
