@@ -14,7 +14,7 @@ Version 1.0.0 - 01.11.2024
 - Initiale Version
 
 ## Hauptfunktionen des Plugins
-Schaltet eine Kundengruppen-Anfrage über das entsprechende Kundenformular automatisch frei.
+Schaltet eine Kundengruppen-Anfrage über das entsprechende Kundengruppen-Registrierungsformular automatisch frei.
 
 ![alt text](images/kundengruppen.png "Zusatzfelder Kundengruppen")
 
