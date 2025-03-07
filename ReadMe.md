@@ -2,16 +2,11 @@
 
 ## Unterstützte Shopware Versionen und Changelog
 
-Stand 13.02.2025:
-- **6.6.0.0 - 6.6.9.0**
+Stand 07.03.2025:
+- **6.6.0.0 - 6.6.10.2**
 - [CHANGELOG](AreanetMinimumOrderValue/CHANGELOG.md)
 - [Download](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-minimum-order-value/releases/)
 
-Version 1.1.0 - 13.02.2025
-- Automatische Freischaltung per Zusatzfeld optional je Kundengruppe
-
-Version 1.0.0 - 01.11.2024
-- Initiale Version
 
 ## Hauptfunktionen des Plugins
 Schaltet eine Kundengruppen-Anfrage über das entsprechende Kundenformular automatisch frei.
