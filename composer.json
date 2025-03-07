@@ -4,6 +4,12 @@
   "description": "Automatische Kundengruppen-Freischaltung",
   "type": "shopware-platform-plugin",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "AREA-NET GmbH",
+      "homepage": "https://www.area-net.de"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "AreanetAutoCustomerGroup\\": "src/"
@@ -17,8 +23,12 @@
       "en-GB": "Automatic customer group change"
     },
     "manufacturerLink": {
-      "de-DE": "www.area-net.de",
-      "en-GB": "www.area-net.de"
+      "de-DE": "https://www.area-net.de",
+      "en-GB": "https://www.area-net.de"
+    },
+    "supportLink": {
+      "de-DE": "https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-auto-customer-group/issues",
+      "en-GB": "https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-auto-customer-group/issues"
     }
   }
 }
