@@ -15,6 +15,9 @@
       "AreanetAutoCustomerGroup\\": "src/"
     }
   },
+  "require": {
+    "shopware/core": "~6.6.0"
+  },
   "extra": {
     "plugin-icon": "src/Resources/plugin.png",
     "shopware-plugin-class": "AreanetAutoCustomerGroup\\AreanetAutoCustomerGroup",
