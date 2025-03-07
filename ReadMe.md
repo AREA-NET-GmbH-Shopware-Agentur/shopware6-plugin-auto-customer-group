@@ -9,7 +9,7 @@ Stand 07.03.2025:
 
 
 ## Hauptfunktionen des Plugins
-Schaltet eine Kundengruppen-Anfrage über das entsprechende Kundenformular automatisch frei.
+Schaltet eine Kundengruppen-Anfrage über das entsprechende Kundengruppen-Registrierungsformular automatisch frei.
 
 ![alt text](images/kundengruppen.png "Zusatzfelder Kundengruppen")
 
