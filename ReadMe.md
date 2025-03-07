@@ -7,6 +7,15 @@ Stand 07.03.2025:
 - [CHANGELOG](AreanetMinimumOrderValue/CHANGELOG.md)
 - [Download](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-minimum-order-value/releases/)
 
+## Installation
+
+### ZIP-Release
+
+Download des entsprechenden ZIP-Files von der [Release-Seite](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-auto-customer-group/releases) und Installation/Upload in der Shopware-Administration unter Erweiterungen.
+
+### Composer
+
+`composer require areanet/autocustomergroup`
 
 ## Hauptfunktionen des Plugins
 Schaltet eine Kundengruppen-Anfrage über das entsprechende Kundengruppen-Registrierungsformular automatisch frei.
